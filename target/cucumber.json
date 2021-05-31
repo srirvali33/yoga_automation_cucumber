@@ -3,47 +3,47 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-05-31T06:14:44.943Z",
+        "start_timestamp": "2021-05-31T22:42:01.954Z",
         "line": 6,
         "name": "checking the overall Yoga application",
         "description": "",
-        "id": "title-of-your-feature;checking-the-overall-yoga-application",
+        "id": "checking-the-overall-working-of-yoga-app-in-different-scenarios;checking-the-overall-yoga-application",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 3864557800,
+              "duration": 2792869100,
               "status": "passed"
             },
             "line": 7,
-            "name": "open the browser and application",
+            "name": "open the chrome browser and application",
             "match": {
-              "location": "Defination.steps.open_the_firefox_and_launch_the_application()"
+              "location": "Defination.steps.open_the_chrome_and_launch_the_application()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 3858580900,
+              "duration": 287640100,
               "status": "passed"
             },
             "line": 8,
-            "name": "check the links",
+            "name": "I check the links",
             "match": {
-              "location": "Defination.steps.enter_the_username_and_password()"
+              "location": "Defination.steps.check_the_links()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 700235000,
+              "duration": 1120030700,
               "status": "passed"
             },
             "line": 9,
-            "name": "Close the browser",
+            "name": "Close the chrome browser",
             "match": {
-              "location": "Defination.steps.reset_the_credential()"
+              "location": "Defination.steps.close_the_chrome()"
             },
             "keyword": "Then "
           }
@@ -56,11 +56,121 @@
             "name": "@tag1"
           }
         ]
+      },
+      {
+        "start_timestamp": "2021-05-31T22:42:06.226Z",
+        "line": 12,
+        "name": "checking the overall Yoga application",
+        "description": "",
+        "id": "checking-the-overall-working-of-yoga-app-in-different-scenarios;checking-the-overall-yoga-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4704809900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "open the firefox browser and application",
+            "match": {
+              "location": "Defination.steps.open_the_firefox_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 434221100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I check the links in firefox browser",
+            "match": {
+              "location": "Defination.steps.check_the_links_in_firefox_browser()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 765795000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Close the firefox browser",
+            "match": {
+              "location": "Defination.steps.close_the_firefox()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-31T22:42:12.149Z",
+        "line": 18,
+        "name": "checking the overall Yoga application",
+        "description": "",
+        "id": "checking-the-overall-working-of-yoga-app-in-different-scenarios;checking-the-overall-yoga-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2297429600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "open the chrome browser and application",
+            "match": {
+              "location": "Defination.steps.open_the_chrome_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4926252600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Check the message received",
+            "match": {
+              "location": "Defination.steps.Check_the_message_received()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 681921800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Close the chrome browser",
+            "match": {
+              "location": "Defination.steps.close_the_chrome()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
       }
     ],
-    "name": "Title of your feature",
-    "description": "  I want to use this template for my feature file",
-    "id": "title-of-your-feature",
+    "name": "Checking the Overall working of Yoga app in different scenarios",
+    "description": "",
+    "id": "checking-the-overall-working-of-yoga-app-in-different-scenarios",
     "keyword": "Feature",
     "uri": "file:Features/Index.feature",
     "tags": [

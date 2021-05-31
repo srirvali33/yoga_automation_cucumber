@@ -1,53 +1,133 @@
 [
   {
-    "source": "open the browser and application",
+    "source": "open the chrome browser and application",
     "steps": [
       {
-        "name": "open the browser and application",
+        "name": "open the chrome browser and application",
         "aggregatedDurations": {
-          "median": 3.8645578,
-          "average": 3.8645578
+          "median": 2.54514935,
+          "average": 2.54514935
         },
         "durations": [
           {
-            "duration": 3.8645578,
-            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:7"
+            "duration": 2.7928691,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:7"
+          },
+          {
+            "duration": 2.2974296,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:19"
           }
         ]
       }
     ]
   },
   {
-    "source": "check the links",
+    "source": "I check the links",
     "steps": [
       {
-        "name": "check the links",
+        "name": "I check the links",
         "aggregatedDurations": {
-          "median": 3.8585809,
-          "average": 3.8585809
+          "median": 0.2876401,
+          "average": 0.2876401
         },
         "durations": [
           {
-            "duration": 3.8585809,
-            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:8"
+            "duration": 0.2876401,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:8"
           }
         ]
       }
     ]
   },
   {
-    "source": "Close the browser",
+    "source": "Close the chrome browser",
     "steps": [
       {
-        "name": "Close the browser",
+        "name": "Close the chrome browser",
         "aggregatedDurations": {
-          "median": 0.700235,
-          "average": 0.700235
+          "median": 0.90097625,
+          "average": 0.90097625
         },
         "durations": [
           {
-            "duration": 0.700235,
-            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:9"
+            "duration": 1.1200307,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:9"
+          },
+          {
+            "duration": 0.6819218,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "open the firefox browser and application",
+    "steps": [
+      {
+        "name": "open the firefox browser and application",
+        "aggregatedDurations": {
+          "median": 4.7048099,
+          "average": 4.7048099
+        },
+        "durations": [
+          {
+            "duration": 4.7048099,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I check the links in firefox browser",
+    "steps": [
+      {
+        "name": "I check the links in firefox browser",
+        "aggregatedDurations": {
+          "median": 0.4342211,
+          "average": 0.4342211
+        },
+        "durations": [
+          {
+            "duration": 0.4342211,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the firefox browser",
+    "steps": [
+      {
+        "name": "Close the firefox browser",
+        "aggregatedDurations": {
+          "median": 0.765795,
+          "average": 0.765795
+        },
+        "durations": [
+          {
+            "duration": 0.765795,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Check the message received",
+    "steps": [
+      {
+        "name": "Check the message received",
+        "aggregatedDurations": {
+          "median": 4.9262526,
+          "average": 4.9262526
+        },
+        "durations": [
+          {
+            "duration": 4.9262526,
+            "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:20"
           }
         ]
       }

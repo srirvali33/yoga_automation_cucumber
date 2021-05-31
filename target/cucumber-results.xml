@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.649">
-    <testcase classname="Title of your feature" name="checking the overall Yoga application" time="8.484">
-        <system-out><![CDATA[Given open the browser and application......................................passed
-When check the links........................................................passed
-Then Close the browser......................................................passed
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="18.253">
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application" time="4.262">
+        <system-out><![CDATA[Given open the chrome browser and application...............................passed
+When I check the links......................................................passed
+Then Close the chrome browser...............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 2" time="5.911">
+        <system-out><![CDATA[Given open the firefox browser and application..............................passed
+When I check the links in firefox browser...................................passed
+Then Close the firefox browser..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 3" time="7.91">
+        <system-out><![CDATA[Given open the chrome browser and application...............................passed
+Then Check the message received.............................................passed
+Then Close the chrome browser...............................................passed
 ]]></system-out>
     </testcase>
 </testsuite>

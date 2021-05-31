@@ -1,6 +1,18 @@
 
 @tag @tag1
 Scenario: checking the overall Yoga application # Features/Index.feature:6
-  Given open the browser and application        # Defination.steps.open_the_firefox_and_launch_the_application()
-  When check the links                          # Defination.steps.enter_the_username_and_password()
-  Then Close the browser                        # Defination.steps.reset_the_credential()
+  Given open the chrome browser and application # Defination.steps.open_the_chrome_and_launch_the_application()
+  When I check the links                        # Defination.steps.check_the_links()
+  Then Close the chrome browser                 # Defination.steps.close_the_chrome()
+
+@tag @tag2
+Scenario: checking the overall Yoga application  # Features/Index.feature:12
+  Given open the firefox browser and application # Defination.steps.open_the_firefox_and_launch_the_application()
+  When I check the links in firefox browser      # Defination.steps.check_the_links_in_firefox_browser()
+  Then Close the firefox browser                 # Defination.steps.close_the_firefox()
+
+@tag @tag3
+Scenario: checking the overall Yoga application # Features/Index.feature:18
+  Given open the chrome browser and application # Defination.steps.open_the_chrome_and_launch_the_application()
+  Then Check the message received               # Defination.steps.Check_the_message_received()
+  Then Close the chrome browser                 # Defination.steps.close_the_chrome()
