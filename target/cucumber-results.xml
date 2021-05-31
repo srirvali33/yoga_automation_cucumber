@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.649">
+    <testcase classname="Title of your feature" name="checking the overall Yoga application" time="8.484">
+        <system-out><![CDATA[Given open the browser and application......................................passed
+When check the links........................................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,56 @@
+[
+  {
+    "source": "open the browser and application",
+    "steps": [
+      {
+        "name": "open the browser and application",
+        "aggregatedDurations": {
+          "median": 3.8645578,
+          "average": 3.8645578
+        },
+        "durations": [
+          {
+            "duration": 3.8645578,
+            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "check the links",
+    "steps": [
+      {
+        "name": "check the links",
+        "aggregatedDurations": {
+          "median": 3.8585809,
+          "average": 3.8585809
+        },
+        "durations": [
+          {
+            "duration": 3.8585809,
+            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the browser",
+    "steps": [
+      {
+        "name": "Close the browser",
+        "aggregatedDurations": {
+          "median": 0.700235,
+          "average": 0.700235
+        },
+        "durations": [
+          {
+            "duration": 0.700235,
+            "location": "file:///C:/Users/srira/eclipse-workspace/yogaautomation/Features/Index.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]

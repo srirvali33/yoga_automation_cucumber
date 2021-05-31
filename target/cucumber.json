@@ -1,0 +1,77 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-05-31T06:14:44.943Z",
+        "line": 6,
+        "name": "checking the overall Yoga application",
+        "description": "",
+        "id": "title-of-your-feature;checking-the-overall-yoga-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3864557800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "open the browser and application",
+            "match": {
+              "location": "Defination.steps.open_the_firefox_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3858580900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "check the links",
+            "match": {
+              "location": "Defination.steps.enter_the_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 700235000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Close the browser",
+            "match": {
+              "location": "Defination.steps.reset_the_credential()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "file:Features/Index.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

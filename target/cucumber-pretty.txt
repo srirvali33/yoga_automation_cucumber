@@ -1,0 +1,6 @@
+
+@tag @tag1
+Scenario: checking the overall Yoga application # Features/Index.feature:6
+  Given open the browser and application        # Defination.steps.open_the_firefox_and_launch_the_application()
+  When check the links                          # Defination.steps.enter_the_username_and_password()
+  Then Close the browser                        # Defination.steps.reset_the_credential()
