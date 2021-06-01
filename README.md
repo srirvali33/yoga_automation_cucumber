@@ -1,5 +1,5 @@
 # yoga_automation_cucumber
-CI/CD of automated yoga website automation using cucumber maven Jenkins.
+CI/CD of automated yoga website using cucumber maven Jenkins.
 
 Steps:
 
