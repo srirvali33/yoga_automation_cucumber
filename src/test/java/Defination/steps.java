@@ -100,7 +100,7 @@ public class steps {
 		driver.findElementById("questionsubmit").click();
 		WebElement msg=driver.findElement(By.id("message"));
 		String receivedmsg=msg.getText();
-		String expectedmsg="Your message was recorded!.";
+		String expectedmsg="Your message was recorded!";
 		Assert.assertEquals(receivedmsg,expectedmsg);
 	}
 
