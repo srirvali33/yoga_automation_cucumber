@@ -7,7 +7,7 @@ Steps:
 
 2) Created a jenkins project and pulled the code from the git hub and ran those test scenarios, which includes testing whether all links working and messages are being generated or not.
 
-3) Used both 'chrome' and 'firefox' browsers to check all functionalities.
+3) Used both 'chrome' and 'firefox' browsers to check all functionalities (cross browser testing).
 
 4) Ran bulid multiple times to check the stability of application.
 
