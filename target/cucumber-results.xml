@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="18.253">
-    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application" time="4.262">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="20.655">
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application" time="8.404">
         <system-out><![CDATA[Given open the chrome browser and application...............................passed
 When I check the links......................................................passed
 Then Close the chrome browser...............................................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 2" time="5.911">
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 2" time="5.987">
         <system-out><![CDATA[Given open the firefox browser and application..............................passed
 When I check the links in firefox browser...................................passed
 Then Close the firefox browser..............................................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 3" time="7.91">
+    <testcase classname="Checking the Overall working of Yoga app in different scenarios" name="checking the overall Yoga application 3" time="6.04">
         <system-out><![CDATA[Given open the chrome browser and application...............................passed
 Then Check the message received.............................................passed
 Then Close the chrome browser...............................................passed

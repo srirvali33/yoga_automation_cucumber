@@ -5,16 +5,16 @@
       {
         "name": "open the chrome browser and application",
         "aggregatedDurations": {
-          "median": 2.54514935,
-          "average": 2.54514935
+          "median": 4.45482155,
+          "average": 4.45482155
         },
         "durations": [
           {
-            "duration": 2.7928691,
+            "duration": 6.5361807,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:7"
           },
           {
-            "duration": 2.2974296,
+            "duration": 2.3734624,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:19"
           }
         ]
@@ -27,12 +27,12 @@
       {
         "name": "I check the links",
         "aggregatedDurations": {
-          "median": 0.2876401,
-          "average": 0.2876401
+          "median": 0.5784807,
+          "average": 0.5784807
         },
         "durations": [
           {
-            "duration": 0.2876401,
+            "duration": 0.5784807,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:8"
           }
         ]
@@ -45,16 +45,16 @@
       {
         "name": "Close the chrome browser",
         "aggregatedDurations": {
-          "median": 0.90097625,
-          "average": 0.90097625
+          "median": 1.0406029,
+          "average": 1.0406029
         },
         "durations": [
           {
-            "duration": 1.1200307,
+            "duration": 1.226549,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:9"
           },
           {
-            "duration": 0.6819218,
+            "duration": 0.8546568,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:21"
           }
         ]
@@ -67,12 +67,12 @@
       {
         "name": "open the firefox browser and application",
         "aggregatedDurations": {
-          "median": 4.7048099,
-          "average": 4.7048099
+          "median": 4.7899567,
+          "average": 4.7899567
         },
         "durations": [
           {
-            "duration": 4.7048099,
+            "duration": 4.7899567,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:13"
           }
         ]
@@ -85,12 +85,12 @@
       {
         "name": "I check the links in firefox browser",
         "aggregatedDurations": {
-          "median": 0.4342211,
-          "average": 0.4342211
+          "median": 0.3422543,
+          "average": 0.3422543
         },
         "durations": [
           {
-            "duration": 0.4342211,
+            "duration": 0.3422543,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:14"
           }
         ]
@@ -103,12 +103,12 @@
       {
         "name": "Close the firefox browser",
         "aggregatedDurations": {
-          "median": 0.765795,
-          "average": 0.765795
+          "median": 0.8488678,
+          "average": 0.8488678
         },
         "durations": [
           {
-            "duration": 0.765795,
+            "duration": 0.8488678,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:15"
           }
         ]
@@ -121,12 +121,12 @@
       {
         "name": "Check the message received",
         "aggregatedDurations": {
-          "median": 4.9262526,
-          "average": 4.9262526
+          "median": 2.8084389,
+          "average": 2.8084389
         },
         "durations": [
           {
-            "duration": 4.9262526,
+            "duration": 2.8084389,
             "location": "file:///C:/github/yoga_automation_cucumber/Features/Index.feature:20"
           }
         ]
